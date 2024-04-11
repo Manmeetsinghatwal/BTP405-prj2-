@@ -29,8 +29,8 @@ To foster a cloud-based eatery reservation framework that smoothes out the most 
 POST /user
 Content-Type: application/json
 {
-    "Name": "Harry Williams",
-    "Email": "harry12@gmail.com"
+    "Name": "Rodry James",
+    "Email": "rj5@gmail.com"
 }
 ```
 #### Outcome
@@ -38,8 +38,8 @@ Content-Type: application/json
 Status: 201 Created
 {
     "user_id": 1,
-    "name": "Harry Williams",
-    "email": "harry12@gmail.com"
+    "name": "Rodry James",
+    "email": "rj5@gmail.com"
 }
 ```
 
