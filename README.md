@@ -1,74 +1,26 @@
 # BTP405 Project 2
 
-## Submitted By:
-
-- Name: Harkirat Singh
-- E-mail: harkirat-singh6@myseneca.ca
-
-
-## Product Vision:
-
-To develop a cloud-based restaurant reservation system that streamlines the process of making, managing, and canceling reservations online. The system aims to provide a seamless experience for both customers and restaurant staff, offering features such as real-time booking availability, customer information management, and automated reservation notifications.
-
-## Goals:
-
-- Make it easier for customers to reserve tables.
-- Improve efficiency for restaurant staff.
-- Enhance overall customer satisfaction.
-- Ensure the system is scalable, flexible, and easy to maintain with microservices architecture.
-
-## Requirements:
-
-- System for customers to book tables.
-- Backend system for staff to handle bookings and customer details.
-- Automated alerts for reservation confirmations and cancellations.
-- Secure login and authorization methods.
-- Architecture capable of handling different levels of demand.
-
-## Target Audience:
-
-Our target users include restaurant owners, managers, and customers who want to book tables online.
+- Name: Manmeet Singh Atwal
+- E-mail: matwal4@myseneca.ca
+- ID: 122872229
 
 
-## Key Features:
-
-- User account management.
-- Table booking and cancellation.
-- Real-time updates on table availability.
-- Management of customer information.
-- Automated reservation notifications.
-- Reporting and analytics tools for restaurant owners.
-
-
-
-## Problems Solved:
-
-- Eliminating errors and inefficiencies in manual booking processes.
-- Simplifying the management of table availability and customer data.
-- Providing timely updates to customers about their reservations.
-- Improving communication channels for reservation alerts.
-
-
-
-
-## User Stories:
-
-- As a customer, I want to easily create an account to book tables conveniently.
-- As a customer, I want to search for available tables based on date, time, and party size.
-- As a staff member, I want to see and manage current table availability.
-- As a staff member, I want to receive notifications when a reservation is made or canceled.
-- As a customer, I want to receive email confirmations for my reservations.
-
-
-
-## Scenarios:
-
-- A customer visits the restaurant's website, signs up, and reserves a table using their email.
-- The customer selects the date, time, and party size, and instantly sees available tables.
-- Once confirmed, the reservation is logged in the system, and the customer gets an email confirmation.
-- If needed, the customer can cancel or change their reservation through their account.
-- Restaurant staff get notifications of new reservations and can update table availability through their interface.
-
+## Item Vision: 
+To foster a cloud-based eatery reservation framework that smoothes out the most common way of making, making due, and dropping reservations on the web. The framework means to give a consistent encounter to the two clients and eatery staff, offering highlights like ongoing booking accessibility, client data the executives, and robotized reservation notices. 
+## Goals: 
+- Make it more straightforward for clients to hold tables. - Further develop proficiency for café staff. - Improve generally speaking consumer loyalty. - Guarantee the framework is adaptable, adaptable, and simple to keep up with microservices engineering.
+- ## Necessities:
+- - Framework for clients to book tables. - Backend framework for staff to deal with appointments and client subtleties. - Mechanized cautions for reservation affirmations and retractions. - Secure login and approval strategies. - Design equipped for dealing with various degrees of interest.
+  - ## Ideal interest group:
+  - Our objective clients incorporate eatery proprietors, chiefs, and clients who need to book tables on the web.
+  -  ## Key Highlights:
+  -  - Client account the executives. - Table booking and dropping. - Continuous updates on table accessibility. - The board of client data. - Computerized reservation notices. - Revealing and investigation devices for eatery proprietors.
+     - ## Issues Tackled:
+     - - Killing blunders and failures in manual booking processes. - Working on the administration of table accessibility and client information. - Giving convenient updates to clients about their reservations. - Further developing correspondence channels for reservation cautions.
+     - ## Client Stories:
+     - - As a client, I need to effectively make a record to helpfully book tables. - As a client, I need to look for accessible tables in light of date, time, and party size. - As a staff part, I need to see and oversee current table accessibility. - As a staff part, I need to get notices when a booking is made or dropped. - As a client, I need to get email affirmations for my reservations.
+     -  ## Situations:
+     -  - A client visits the eatery's site, joins, and holds a table utilizing their email. - The client chooses the date, time, and party size, and in a split second sees accessible tables. - When affirmed, the booking is signed in the framework, and the client receives an email affirmation. - If necessary, the client can drop or change their booking through their record. - Café staff get warnings of new reservations and can refresh table accessibility through their connection point.
 ## Outcomes: 
 
 #### Create a new User
