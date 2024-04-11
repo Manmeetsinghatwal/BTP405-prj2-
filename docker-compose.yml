@@ -3,9 +3,9 @@ services:
   db:
     image: postgres:latest
     environment:
-      POSTGRES_DB: harkiratbtp405
+      POSTGRES_DB: manmeet_btp405
       POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: har123
+      POSTGRES_PASSWORD: man20
     ports:
       - "5432:5432"
     volumes:
