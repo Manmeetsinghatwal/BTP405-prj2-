@@ -1,0 +1,6 @@
+gunicorn
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-HTTPAuth
+psycopg2-binary
