@@ -53,8 +53,8 @@ Content-Type: application/json
 {
 
 "user_id": 1,
-"reservation_time": "2024-01-19 21:00:00",
-"guests": 9,
+"reservation_time": "2024-04-6 19:00:00",
+"guests": 4,
 "status": "Confirmed"
 }
 ```
@@ -76,8 +76,8 @@ Status: 200 OK
    {
       "reservation_id": 1,
       "user_id": 1,
-      "reservation_time": "2024-01-19 21:00:00",
-      "guests": 9,
+      "reservation_time": "2024-04-06 19:00:00",
+      "guests": 4,
       "status": "Confirmed"
 
    }
@@ -90,8 +90,8 @@ PUT /reservation/{reservation_id}
 Content-Type: application/json
 [
    {
-      "reservation_time": "2024-01-19 21:00:00",
-      "guests": 19,
+      "reservation_time": "2024-04-09 21:00:00",
+      "guests": 8,
       "status": "Confirmed"
 
    }
